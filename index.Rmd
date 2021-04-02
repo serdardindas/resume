@@ -1,0 +1,168 @@
+---
+title: "Serdar Dindas's resume"
+author: Serdar DINDAS
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Serdar DİNDAŞ](C:/Users/User/Desktop/Rworks/cvdown/avatar.jpg){width=100%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-map-marked-alt"></i> Ankara, Turkey
+- <i class="fa fa-envelope"></i> serdardindas@gmail.com
+- <i class="fa fa-github"></i> [github.com/serdardindas](https://github.com/serdardindas)
+- <i class="fa fa-globe"></i>
+[serdardindas.netlify.app](https://serdardindas.netlify.app)
+- <i class="fa fa-globe"></i>
+[linkedin.com/serdardindas](https://linkedin.com/in/serdardindas)
+- <i class="fas fa-download"></i>
+[Download as PDF](https://github.com/serdardindas/resume/raw/master/serdardindas.pdf)
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Serdar DINDAS {#title}
+--------------------------------------------------------------------------------
+
+### Data Scientist (MSc in Statistics)
+
+Data Scientist with strong statistical background and programming enthusiast. Build models with machine learning algorithms. Extract, transform and create workflows for reproducible reports. Develop web application for quick descriptive analyses. Like to learn different programming languages, applications and methodologies for self-improvement.
+
+
+Education {data-icon=university data-concise=true}
+--------------------------------------------------------------------------------
+
+### Hacettepe University 
+
+B.S. in Statistics
+
+Ankara, Turkey
+
+2011
+
+
+### University of Chinese Academy of Sciences
+
+M.S. in Statistics
+
+Ankara, Turkey
+
+2018
+
+Thesis: Examine, “Non-Parametric Estimation In Regression Discontinuity Design”, Regression discontinuity method, which is one of the semi-experimental impact assessment methods in which control group and effect group could not be determined before the experiment. Regression discontinuity design has allowed to examine the incumbency advantage in elections
+
+
+Work Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Scientific Programs Expert
+
+The Scientific and Technological Research Council of Turkey
+
+Ankara, Turkey
+
+2012 - Present
+
+- Creating reports for board members using business intelligence tools (mostly Oracle BI), programming RMarkdown make these reports autonomous
+- Develop web applications with dashboards with the RShiny package tool in order to create quick and explanatory ideas from the datasets obtained by associating the data received from stakeholders with the database.
+- ***Project:*** Use neural network and decision trees, model the relationship between refree reviews and board assessments to develop decision support system for project evaluation process. This model predict finding approved or rejected projects with an 88% success rate. This study helped to significantly reduce the time in project evaluation processes.
+
+
+\newpage
+
+Skills {data-icon=code}
+--------------------------------------------------------------------------------
+
+### Statistical/Machine Learning Algorithms
+
+N/A
+
+N/A
+
+N/A
+
+- Logistic Regression, Decision Trees, Neural Network, Clustring Analysis
+
+### Programming Languages /Libraries
+
+N/A
+
+N/A
+
+N/A
+
+**R Programming**
+
+- Dplyr, Tidyr, Stringr for Data Manipulation
+- GGplot, Plotly, Highcharts for Data Visualization
+- Tidymodels, Tidytext for Machine Learning and NLP Projects
+- Rmarkdown for Reporting, Rshiny for Applications
+
+**Python**
+
+- Pandas, Numpy for Data Manipulation
+- Matplotlib for Data Visulation
+- Scikit-Learn for Machine Learning Projects
+
+### Database Systems / BI Tools
+
+Relational Database Systems 
+
+N/A
+
+N/A
+
+- MYSQL and PostgreSQL
+- Oracle BI Enterprise 11g
+
+### Version Control
+
+N/A
+
+N/A
+
+N/A
+
+- Git/Github
+
+Language {data-icon=language}
+--------------------------------------------------------------------------------
+
+### English
+
+IELTS 6.5
+
+N/A
+
+N/A
+
+### Deutsch
+
+Level A2
+
