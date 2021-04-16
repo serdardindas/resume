@@ -30,15 +30,12 @@ Contact Info {#contact}
 - <i class="fas fa-download"></i>
 [Download as PDF](https://github.com/serdardindas/resume/raw/master/serdardindas.pdf)
 
-Skills {#skills}
 --------------------------------------------------------------------------------
 
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
