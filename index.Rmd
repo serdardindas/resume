@@ -47,9 +47,9 @@ Main
 Serdar DINDAS {#title}
 --------------------------------------------------------------------------------
 
-### Data Scientist (MSc in Statistics)
+### Data Scientist | Data Analyst (MSc in Statistics)
 
-Data Scientist with strong statistical background and programming enthusiast. Build models with machine learning algorithms. Extract, transform and create workflows for reproducible reports. Develop web application for quick descriptive analyses. Like to learn different programming languages, applications and methodologies for self-improvement.
+Data Scientist / Data Analyst with strong statistical background and programming enthusiast. Build models with machine learning algorithms. Extract, transform and create workflows for reproducible reports. Develop web application for quick descriptive analyses. Like to learn different programming languages, applications and methodologies for self-improvement.
 
 
 Education {data-icon=university data-concise=true}
@@ -137,6 +137,16 @@ N/A
 
 - MYSQL and PostgreSQL
 - Oracle BI Enterprise 11g
+
+### Web Development
+
+N/A
+
+N/A
+
+N/A
+
+- Basic HTML, CSS and Javascript Knowledge
 
 ### Version Control
 
